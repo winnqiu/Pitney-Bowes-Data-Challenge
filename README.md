@@ -15,3 +15,6 @@ Although I tried to use Principal Components Analysis to reduce the dimensions, 
 
 ## Outcome
 The Naive Bayes model seems to have the highest recall score, although it is still quite low, that's the best option due to time limit and my knowlegde at that time. I used the Naive Bayes model to create a fail_7 column for the test.csv file. 
+
+## Dataset
+The dataset is not included in this repository to avoid any issue.
